@@ -24,12 +24,12 @@
 
 ### [NOTE : This is a private game, it is just and experiment of Taxt based game's]
 
-![Game Link] (https://denevointeractive.itch.io/steam-punk-a-text-based-game)
+### ![Game Link](https://denevointeractive.itch.io/steam-punk-a-text-based-game)
 
-/
+#### Game Password/Key :
 
 ```html
-GAME KEY/PASSWORD :  steampunk
+steampunk
 ```
 
 # ENJOY
