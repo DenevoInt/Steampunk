@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416d21cffc99091468c002aec9d414ff, type: 3}
+  m_Name: A 1
+  m_EditorClassIdentifier: 
+  count: 1992
+  state: 1992
+  StoryText: "Festers, Everywhere. Armed mostly with gas- powered rock flingers.\r\nAt
+    least 10 of the guarding the hagar door. Typical.\r\n\r\n\r\nCould try punching
+    my way through. or sneaking the long way to the emergency exit.\r\n\r\n\r\nwhat
+    should I do?\r\n\r\n  1. Take them head on - rush the 10 guards.\r\n  2.  Sneak
+    my way to the emergency exit."
+  nextStates:
+  - {fileID: 11400000, guid: e6a35e6a4e757a94dbdf9e587fc73e5b, type: 2}
+  - {fileID: 11400000, guid: 988068cc9f4080943bb8748ae5ce526a, type: 2}
