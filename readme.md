@@ -1,16 +1,21 @@
-# WELCOME TO STEAMPUNK
+# 	WELCOME TO STEAMPUNK
 
-###  A Text Based Game made with unity 
+### 	 A Text Based Game made with unity 
 
 ---
 
 ## Game Genre
 
 ##### Engine : Unity 2022 LTS
+
 ##### Build Engine : Unity 6000 LTS
+
 ##### Game Type : Adventure, Text Based
+
 ##### Published by : Denevo Interactive
+
 ##### Release Date : 16 Nov 2024
+
 ##### Last Updated : 17 Nov 2024
 
 ---
@@ -27,3 +32,4 @@ GAME KEY/PASSWORD :  steampunk
 ```
 
 # ENJOY
+
