@@ -2,8 +2,6 @@
 
 ###  A Text Based Game made with unity 
 
-
-
 ---
 
 #### Game Genre
@@ -15,17 +13,16 @@
 - ##### Release Date : 16 Nov 2024
 - ##### Last Updated : 17 Nov 2024
 
-
-
 ---
 
 ## How To Play!!
 
 ### [NOTE : This is a private game, it is just and experiment of Taxt based game's]
 
-### Click on the Link Below ![Click Here](https://denevointeractive.itch.io/steam-punk-a-text-based-game)```html
-Steampunk
-```steampunk
+### Click on the Link Below 
 
-### ENJOY
+```
+GAME KEY/PASSWORD :  steampunk
+```
 
+# ENJOY
