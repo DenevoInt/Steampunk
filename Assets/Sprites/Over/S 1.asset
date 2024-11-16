@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 416d21cffc99091468c002aec9d414ff, type: 3}
   m_Name: S 1
   m_EditorClassIdentifier: 
+  count: 16386
+  state: 16385
   StoryText: "You scramble aboard your airship. With all of your remaining strength,
     you lift the anchoring rope off its huge hook and give an all mighty shove.\r\n\r\nAs
     you start to drift out of the hangar, you hear shouts of dismay from a nearby
     group of Festers. \r\n\r\n\"So long suckers! May we never meet again!\", you
     holler. You may, you may not. Time will tell. \r\n\r\nYou've won this battle.
     Now, on with the war!\r\n\r\n1. Continue..."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: ddcd499f9201269428fb7687798488cd, type: 2}
